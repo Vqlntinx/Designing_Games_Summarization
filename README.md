@@ -5,3 +5,7 @@
 This repository contains my own summaries and interpretations of the book.
 No original text from the book is reproduced beyond short quotations for review purposes.
 All copyrights of the original work belong to the original author and publisher.
+
+## License
+This repository is licensed under the  
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
